@@ -1,3 +1,3 @@
 [submodule "pod-libray"]
 	path = pod-libray
-	url = git@github.com:ljy1017010/pod-libray.git
+	url = https://github.com:ljy1017010/pod-libray.git
